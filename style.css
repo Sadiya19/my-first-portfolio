@@ -47,13 +47,16 @@ button{
     width: 50%;
 }
 .mission-part{
-    background-color: rgb(243, 168, 243);
+    background-color: #ffb6c1;
 }
 .vision-part{
-    background-color: rgb(211, 243, 97);
+    background-color: #e1f8dc;
 }
 .goal-part{
-    background: rgb(129, 235, 152);
+    background: #fef8dd;
+}
+.goal-text{
+    margin-top: 50px;
 }
 footer{
     background-color: black;
